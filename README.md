@@ -4,6 +4,9 @@ This is a repository for a fictional landing page, a project made as a part of T
 
 It covers the usage of HTML, CSS and Git.
 
+
+>Note: This website is not mobile-responsive.
+
 Reference images:
 ![First image reference](reference_1.png)
 
