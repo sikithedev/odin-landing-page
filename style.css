@@ -86,3 +86,35 @@ body {
   border-radius: 10px;
   margin-top: 10px;
 }
+
+.info {
+  padding: 0 20px;
+}
+
+.info h1 {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
+  margin: 40px auto;
+}
+
+.info .container {
+  max-width: 750px;
+  height: 100%;
+  margin: 0 auto 80px;
+  text-align: center;
+}
+
+.info .cards {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.info .card img {
+  width: 100%;
+  border: 3px solid #3882f6;
+  border-radius: 10px;
+}
