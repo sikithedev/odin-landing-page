@@ -144,3 +144,29 @@ body {
   font-weight: 700;
   text-align: right;
 }
+
+.call-to-action {
+  color: white;
+  padding: 0 20px;
+}
+
+.call-to-action .container {
+  max-width: 900px;
+  background-color: #3882f6;
+  border-radius: 10px;
+  padding: 40px 80px;
+  margin: 80px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.call-to-action button {
+  font-size: 18px;
+  font-weight: 900;
+  background-color: #3882f6;
+  color: white;
+  padding: 5px 30px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
